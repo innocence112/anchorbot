@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tqli.anchorbolt.MainActivity">
+
+    <Button
+        android:id="@+id/m_btn"
+        android:text="设置"
+        android:background="@drawable/round_btn"
+        android:layout_width="120dp"
+        android:layout_height="120dp" />
+
+
+    <!--<com.tqli.anchorbolt.AnchorBoltView-->
+        <!--android:id="@+id/anchorBolt"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"/>-->
+
+    <!--<com.tqli.anchorbolt.ButtonView-->
+        <!--android:id="@+id/buttons"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_alignParentBottom="true"/>-->
+
+
+</RelativeLayout>
